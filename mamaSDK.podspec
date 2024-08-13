@@ -1,6 +1,6 @@
 Pod::Spec.new do |spec|
   spec.name         = "mamaSDK"
-  spec.version      = "3.5.3"
+  spec.version      = "3.5.4"
   spec.summary      = "an adSDK for media"
   spec.description  = <<-DESC
 mamaSDK is a product provided by Alibaba Group for monetizing advertisements for external media.
